@@ -5,7 +5,6 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Cracking Codewars #2](https://www.youtube.com/watch?v=Lp6lHm0QBOg)
 - [Cracking Codewars #1](https://www.youtube.com/watch?v=UdjtqpD1zZ0)
 - [Study Programming With Me #1](https://www.youtube.com/watch?v=oplrcI9lOq4)
