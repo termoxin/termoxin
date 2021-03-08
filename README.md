@@ -5,7 +5,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Building financial Telegram bot | Design](https://www.youtube.com/watch?v=oniKULr6QpI)
+- [Building financial Telegram bot | Design and first coding steps](https://www.youtube.com/watch?v=oniKULr6QpI)
 - [Building financial Telegram bot | Planning](https://www.youtube.com/watch?v=4Jq2-UA_wzs)
 - [Cracking Codewars #2](https://www.youtube.com/watch?v=Lp6lHm0QBOg)
 - [Cracking Codewars #1](https://www.youtube.com/watch?v=UdjtqpD1zZ0)
