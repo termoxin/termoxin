@@ -5,7 +5,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Create English learning Platform in Next.js/React | Introduction](https://www.youtube.com/watch?v=inYy2K1fZko)
+- [Creating English Learning Startup](https://www.youtube.com/watch?v=inYy2K1fZko)
 - [Building CLI to work with subtitles in JavaScript | Download and unzip subtitles](https://www.youtube.com/watch?v=v9as5hcOmAQ)
 - [Building CLI to work with subtitles in JavaScript | Downloads subtitles automatically #2](https://www.youtube.com/watch?v=OsFmo57vPzI)
 - [Building CLI to work with subtitles in JavaScript | Downloads subtitles automatically](https://www.youtube.com/watch?v=U28W2JUOEkg)
