@@ -5,11 +5,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Building Game using Google Maps](https://www.youtube.com/watch?v=Bqa19kC2SfE)
 - [Creating English Learning Startup](https://www.youtube.com/watch?v=4MLKhKd7jg8)
 - [Building CLI to work with subtitles in JavaScript | Download and unzip subtitles](https://www.youtube.com/watch?v=v9as5hcOmAQ)
 - [Building CLI to work with subtitles in JavaScript | Downloads subtitles automatically #2](https://www.youtube.com/watch?v=OsFmo57vPzI)
 - [Building CLI to work with subtitles in JavaScript | Downloads subtitles automatically](https://www.youtube.com/watch?v=U28W2JUOEkg)
-- [Building financial Telegram bot | Stats by certain period](https://www.youtube.com/watch?v=4FDtomUJrSw)
 <!-- YOUTUBE:END -->
 
 ---
