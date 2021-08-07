@@ -5,7 +5,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Creating Google Maps Strategy Game](https://www.youtube.com/watch?v=o1ZZX5ibP68)
+- [Creating Google Maps Strategy Game | Buy land](https://www.youtube.com/watch?v=o1ZZX5ibP68)
 - [Creating English Learning Startup](https://www.youtube.com/watch?v=4MLKhKd7jg8)
 - [Building CLI to work with subtitles in JavaScript | Download and unzip subtitles](https://www.youtube.com/watch?v=v9as5hcOmAQ)
 - [Building CLI to work with subtitles in JavaScript | Downloads subtitles automatically #2](https://www.youtube.com/watch?v=OsFmo57vPzI)
